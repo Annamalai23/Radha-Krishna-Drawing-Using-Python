@@ -26,13 +26,12 @@ Turtle library (already comes pre-installed with Python)
 
 Clone this repository (or download the ZIP):
 
-git clone https://github.com/your-username/radha-krishna-turtle-drawing.git
-cd radha-krishna-turtle-drawing
+git clone https://github.com/Annamalai23/Radha-Krishna-Drawing-Using-Python
 
 
 Run the Python file:
 
-python radha_krishna.py
+ krishna radha janmashtami.py
 
 
 Watch the Turtle window open and draw the Radha-Krishna artwork! 🎨
