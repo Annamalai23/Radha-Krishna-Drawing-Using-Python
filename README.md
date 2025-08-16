@@ -38,7 +38,7 @@ Watch the Turtle window open and draw the Radha-Krishna artwork! 🎨
 
 🛠 How to Use / Customize
 
-Open the file radha_krishna.py in any editor (VS Code, PyCharm, or even Notepad).
+Open the file krishna radha janmashtami.py in any editor (VS Code, PyCharm, or even Notepad).
 
 Change colors: look for lines like turtle.color("blue") and try "red", "green", "gold", etc.
 
